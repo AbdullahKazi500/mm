@@ -25,21 +25,17 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Quantum Machine Learning
+  - Quantum Cryptography
+  - Quantum Simulation
+  - Artificial Intelligence 
+
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Bachelor of Science (BS) Data Science and Artificial Intelligence 
+      institution: IIT Madras 
+      year: 2025
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -48,16 +44,16 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
+    link: 'kkaur12154@gmail.com'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/KyranKaur
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/KyranKaur
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -74,6 +70,15 @@ user_groups:
   - Graphics Creators
 ---
 
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+As an ambitious, curious, and reliable student currently pursuing a degree in Data Science and its Applications at IIT Madras, my passion for Maths, Science, and Technology has been ingrained in me since childhood. I've always been fascinated by the mysteries of the universe. From aspiring to become an astronaut to a scientist (thanks to the inspiration from 'Dexter's Laboratory'), to a tech-billionaire, I've dreamt it all.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Throughout my academic journey, my unwavering love for Maths and Computer Science has been a driving force in my pursuit of knowledge. However, what truly sets me apart is my deep-rooted desire to make a meaningful impact on society through cutting-edge research and technology. I believe that research is the key to unlocking new frontiers of knowledge and finding innovative solutions to real-world problems.
+
+In particular, my passion lies in the field of Quantum Computing, where the convergence of Quantum Mechanics and Machine Learning has the potential to revolutionize industries and change the way we approach complex problems. Quantum Machine Learning, Quantum Cryptography, and Quantum Simulation are some of the fascinating subjects that I am eager to explore and contribute to.
+
+I am also fascinated by a diverse range of subjects such as Astrophysics, Cosmology, Neuroscience, Geopolitics, International Relations, and History. I find the complexity of these fields to be intellectually stimulating, and I am constantly seeking new ways to deepen my understanding of each subject. Whether it is exploring the mysteries of the universe or studying the complexities of global politics, I am driven by a constant desire to expand my knowledge and contribute to the world around me.
+
+
+My ultimate goal is to not only excel in my chosen field but to also leave a lasting legacy that I can be proud of. I am committed to pushing the boundaries of human understanding and making a positive impact on society through my research. With my unrelenting dedication, insatiable curiosity, and relentless pursuit of excellence, I am confident that I will be able to make a significant contribution to the field of quantum computing and create a better future for generations to come.
+
+.
