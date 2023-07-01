@@ -1,16 +1,62 @@
 ---
-title: Richard Hendricks Wins First Place in the Wowchemy Prize
-date: 2020-12-01
-appearance:
-  font_size: s
+title: Harry Potter - Story #01
+date: 2023-07-01
 ---
 
-Congratulations to Richard Hendricks for winning first place in the Wowchemy Prize.
+The young wizard in the Harry Potter universe was enrolled in Hogwarts School of
+Witchcraft and Wizardry to study advanced magical theory.
 
 <!--more-->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
+One day, Harry heard about the Stern-Gerlach experiment while listening to a lecture on the characteristics of magical particles. (* an experiment conducted by muggles that assessed the quantized spin of subatomic particles) Harry was intrigued by the idea and pondered whether the
+same ideas could be used to describe magical particles. Harry made the decision to run
+his own experiment to verify his theory with the assistance of his friends Hermione and
+Ron. They began by creating a beam of magical particles, consisting of spells and
+potions, and passing it through a magnetic field. Before conducting the experiment,
+they expected the particles to create a continuous smear on the detector screen (*based
+on the classical physics prediction.
 
-Sed eu dui nec ligula bibendum dapibus. Nullam imperdiet auctor tortor, vel cursus mauris malesuada non. Quisque ultrices euismod dapibus. Aenean sed gravida risus. Sed nisi tortor, vulputate nec quam non, placerat porta nisl. Nunc varius lobortis urna, condimentum facilisis ipsum molestie eu. Ut molestie eleifend ligula sed dignissim. Duis ut tellus turpis. Praesent tincidunt, nunc sed congue malesuada, mauris enim maximus massa, eget interdum turpis urna et ante. Morbi sem nisl, cursus quis mollis et, interdum luctus augue. Aliquam laoreet, leo et accumsan tincidunt, libero neque aliquet lectus, a ultricies lorem mi a orci.
-
-Mauris dapibus sem vel magna convallis laoreet. Donec in venenatis urna, vitae sodales odio. Praesent tortor diam, varius non luctus nec, bibendum vel est. Quisque id sem enim. Maecenas at est leo. Vestibulum tristique pellentesque ex, blandit placerat nunc eleifend sit amet. Fusce eget lectus bibendum, accumsan mi quis, luctus sem. Etiam vitae nulla scelerisque, eleifend odio in, euismod quam. Etiam porta ullamcorper massa, vitae gravida turpis euismod quis. Mauris sodales sem ac ultrices viverra. In placerat ultrices sapien. Suspendisse eu arcu hendrerit, luctus tortor cursus, maximus dolor. Proin et velit et quam gravida dapibus. Donec blandit justo ut consequat tristique.
+But to their surprise, the particles diverged into two distinct directions. Harry, amused
+by the outcome, made the decision to find Stern and Gerlach to ask them further
+questions about the experiment. The scientist said that the experiment was intended to
+detect the silver atom's magnetic moment, but the discovery of spin during the
+procedure led to the explanation for why the particles split into two distinct pathways.
+When Harry enquired about the deflection of the particles in the magnetic field, Stern
+and Gerlach responded that it was inversely correlated with the kinetic energy of the
+particles. The amount of deflection and kinetic energy of the particles increased with
+the strength of the magnetic field. By altering the strength of the magnetic field in their
+experiment, Harry and his friends chose to put this notion to the test. They discovered
+that the deflection of the particles grew according to their kinetic energy when the
+field's strength was decreased. This outcome supported Stern and Gerlach's discovery of
+a connection between deflection and kinetic energy. Harry and his companions
+discovered that the concepts of kinetic energy and space quantization were related as
+they continued their studies. They proposed that the quantized regions of the magnetic
+field might modify the particle kinetic energy, resulting in various patterns on the
+detector screen. For instance, they found that varying degrees of deflection and kinetic
+energy resulted from the fact that particles with particular spins could only exist in
+particular, quantized positions inside the magnetic field. They also found that the size
+of the quantized units of space may vary depending on the strength of the magnetic
+field, producing various patterns on the detector screen. As they continued to
+experiment and gather data, Harry and his friends developed a greater understanding of
+the properties of magical particles and the principles of muggle science. Their research
+showed that the relationship between deflection and kinetic energy was a crucial factor
+in understanding the behavior of particles. In the end, Harry's experiment not only
+expanded his understanding of the properties of magic and the principles of muggle
+science, but it also showed that the deflection of particles was inversely proportional to
+their kinetic energy. Harry realized that the principles of space quantization and kinetic
+energy had many applications in the field of magical engineering. He began to apply
+these principles to his own magical inventions, making them more efficient and
+powerful than ever before. The term "spin" refers to a quantum property of an atom or
+subatomic particle that behaves as if it were spinning around an axis. However, the spin 
+is not an actual rotation, but rather an intrinsic property that has no classical
+counterpart. The Stern-Gerlach experiment demonstrated that the spin of an atom can
+be measured by the deflection of its magnetic moment in an inhomogeneous magnetic
+field. When a beam of atoms is passed through a region of strong magnetic field, the
+spin of the atoms causes them to be deflected in a direction that depends on their spin
+orientation. In particular, the experiment showed that the spin of an atom can only take
+certain discrete values, corresponding to different quantized states. For example, in the
+case of a silver atom, the spin can take only two possible values, +1/2 or -1/2, along a
+given axis. The Stern-Gerlach experiment thus provided early evidence for the
+quantization of angular momentum in quantum mechanics, and helped pave the way
+for the development of spin-based technologies, such as magnetic resonance imaging
+and spintronics.
