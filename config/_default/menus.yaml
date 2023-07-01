@@ -5,13 +5,13 @@
 
 main:
   - name: About Us
-    url: 
+    url: /
     weight: 10
   - name: Tutorials
     url: event
     weight: 20
   - name: Exercises
-    url: publication
+    url: /
     weight: 30
   - name: Blog
     url: post
