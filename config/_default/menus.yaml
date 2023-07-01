@@ -10,15 +10,15 @@ main:
   - name: Blog
     url: post
     weight: 20
+  - name: Tutorials
+    url: event
+    weight: 30
+  - name: Exercices
+    url: publication
+    weight: 40
   - name: Our Team
     url: people
-    weight: 30
-  - name: Events
-    url: event
-    weight: 40
-  - name: Publications
-    url: publication
     weight: 50
-  - name: Contact
+  - name: Contact Us
     url: contact
     weight: 60
