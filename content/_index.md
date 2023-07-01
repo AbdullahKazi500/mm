@@ -20,15 +20,26 @@ sections:
     content:
       title: What is Quantum Beginners intiative?
       subtitle: ''
-      text: There are many resources out there for people to learn about quantum computing. However we would like to create a place where absolute beginners can start from, like a “start here” section that then takes them step-by-step through the process of understanding the minimum before exploring the world of quantum computing for themselves. The content will be a combination of original creations by the team and links to specific sections of already existing content.
+      text: |
+        There are many resources out there for people to learn about quantum computing. However we would like to create a place where absolute beginners can start from, like a “start here” section that then takes them step-by-step through the process of understanding the minimum before exploring the world of quantum computing for themselves. The content will be a combination of original creations by the team and links to specific sections of already existing content.
     design:
       columns: '1'
 
   - block: markdown
     content:
-      title: Why did we start Quantum Beginners intiative?
+      title: What is Quantum Beginners intiative?
       subtitle: ''
-      text: There are many resources out there for people to learn about quantum computing. However we would like to create a place where absolute beginners can start from, like a “start here” section that then takes them step-by-step through the process of understanding the minimum before exploring the world of quantum computing for themselves. The content will be a combination of original creations by the team and links to specific sections of already existing content.
+      text: |
+        There are many resources out there for people to learn about quantum computing. However we would like to create a place where absolute beginners can start from, like a “start here” section that then takes them step-by-step through the process of understanding the minimum before exploring the world of quantum computing for themselves. The content will be a combination of original creations by the team and links to specific sections of already existing content.
+    design:
+      columns: '1'
+
+  - block: markdown
+    content:
+      title: 
+      subtitle: 'Awareness and Education'
+      text: |
+        Quantum computing is an emerging field that holds great potential for advancements in various domains. However, it is a complex and abstract subject that can be challenging for beginners to grasp. The initiative aims to raise awareness about quantum computing and provide educational resources to make it more accessible to students, researchers, and enthusiasts.
     design:
       columns: '1'
 
@@ -71,13 +82,4 @@ sections:
       spacing:
         padding: ['20px', '0', '20px', '0']
       css_class: fullscreen
-  
-  - block: markdown
-    content:
-      title:
-      subtitle:
-      text: |
-        Welcome to Quantum beginners initiative 
-    design:
-      columns: '1'
 ---
