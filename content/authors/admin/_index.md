@@ -10,11 +10,11 @@ last_name: Krishnakumar
 superuser: true
 
 # Role/position
-role: [Here goes role]
+role: Here goes role
 
 # Organizations/Affiliations
 organizations:
-  - name: [Here goes organization]
+  - name: Here goes organization
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
