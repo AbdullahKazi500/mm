@@ -13,11 +13,11 @@ main:
   - name: Exercises
     url: publication
     weight: 30
-  - name: Our Team
-    url: people
-    weight: 40   
   - name: Blog
     url: post
+    weight: 40   
+  - name: Our Team
+    url: people
     weight: 50
   - name: Contact Us
     url: contact
