@@ -14,7 +14,7 @@ sections:
           - Main Advisor
           - Content Creators
           - Graphics Creators
-          - Website Developers
+          - Web Developers
           - Principal Investigators
           - Researchers
           - Grad Students
