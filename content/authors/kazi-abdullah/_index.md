@@ -10,7 +10,7 @@ last_name: Kazi
 superuser: false
 
 # Role/position
-role: Team Lead 
+role: Team Lead-Content (Theory)
 
 # Organizations/Affiliations
 organizations:
@@ -47,7 +47,7 @@ social:
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/AbdullahKazi500
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -67,4 +67,17 @@ user_groups:
   - Graphics Creators
 ---
 
-Abdullah is a Technology enthusiast and an IBM Zsystem advocate .His research is inclined towards Theoretical Physics and Applied Physics 
+Abdullah is a Technology enthusiast and an IBM Zsystem advocate 
+His interest lies in theoretical and experimental research especially in Applied physics and Thermodynamics. 
+His strength lies in dedication and passion to his work which is reflected in his experience. 
+With a tech savvy mindset, he has the ability to be an asset to any organization.
+He has proven his mettle by showcasing his capability in various tasks and different situations. 
+and in his leadership skills 
+He was involved in different non-technical roles previously.
+He is part of various communities, organization and has been involved in various non-profit educational initiatives. 
+which includes supply chain management, growth marketing & Educational outreach.
+Apart from that he is interested in theoretical physics ,quantum mechanics,open Quantum systems ,statiscal mechanics, statistical physics, classical mechanics along with high energy physics. 
+
+His research and areas of interest is focused around particle physics.
+multi physics, High energy physics & Thermodynamics 
+Abdullah is open for collaborative research on different projects and research opportunities.
