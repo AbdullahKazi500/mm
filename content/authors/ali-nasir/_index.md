@@ -27,8 +27,8 @@ interests:
 
 education:
   courses:
-    - course:Education - BSc (Physics)  , MSc (Physics)
-      institution: - Delhi University, Jawaharlal Nehru University 
+    - course:Education - 
+      institution: - 
       year: 2019
 
 # Social/Academic Networking
