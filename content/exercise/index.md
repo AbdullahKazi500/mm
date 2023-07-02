@@ -1,7 +1,21 @@
 ---
+{{% staticref "uploads/quantum-fourier-transform.pdf" "newtab" %}}Download exercises on QFT.{{% /staticref %}}
+
 title: Exercises
 date: 2023-07-02
 type: landing
 
-{{% staticref "uploads/quantum-fourier-transform.pdf" "newtab" %}}Download exercises on QFT.{{% /staticref %}}
+
+sections:
+  - block: markdown
+    content:
+      text: 
+    design:
+
+sections:
+  - block: markdown
+    content:
+      text: 
+    design:
+      columns: '1'
 ---
