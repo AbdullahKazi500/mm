@@ -27,7 +27,7 @@ interests:
 
 education:
   courses:
-    - course:Education - [BSc (Physics)  , MSc (Physics)
+    - course:Education - BSc (Physics)  , MSc (Physics)
       institution: - Delhi University, Jawaharlal Nehru University 
       year: -
 
