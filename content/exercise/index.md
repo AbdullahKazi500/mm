@@ -8,13 +8,12 @@ sections:
     content:
       title:
       subtitle: ''
-      text: |
-        Hi
+      text: Let's practice your knowledge...
     design:
       columns: '1'
-
-{{% staticref "uploads/quantum-fourier-transform.pdf" "newtab" %}}Download exercises on QFT.{{% /staticref %}}
+  - type: download
+    content:
+      title: "Download exercises on QFT."
+      link: "uploads/quantum-fourier-transform.pdf"
+      target: "_blank"
 ---
-
-
-
