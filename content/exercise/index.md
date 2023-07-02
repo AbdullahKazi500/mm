@@ -11,9 +11,6 @@ sections:
       text: Let's practice your knowledge...
     design:
       columns: '1'
-  - type: download
-    content:
-      title: "Download exercises on QFT."
-      link: "uploads/quantum-fourier-transform.pdf"
-      target: "_blank"
+
+{{% staticref "uploads/quantum-fourier-transform.pdf" "newtab" %}}Download exercises on QFT.{{% /staticref %}}
 ---
