@@ -9,7 +9,7 @@ sections:
       title:
       subtitle: ''
       text: |
-        {{% staticref "uploads/quantum-fourier-transform.pdf" %}}Download exercises on QFT.{{% /staticref %}}
+        {{% cta cta_link="uploads/quantum-fourier-transform.pdf" cta_text="Download exercises on QFT. →" %}}
     design:
       columns: '1'
 ---
