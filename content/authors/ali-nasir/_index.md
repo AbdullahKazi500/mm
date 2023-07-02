@@ -29,7 +29,7 @@ education:
   courses:
     - course:Education - BSc (Physics)  , MSc (Physics)
       institution: - Delhi University, Jawaharlal Nehru University 
-      year: -
+      year: 2019
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
