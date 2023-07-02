@@ -13,7 +13,7 @@ sections:
     design:
       columns: '1'
 
-  {{% staticref "uploads/quantum-fourier-transform.pdf" "newtab" %}}Download exercises on QFT.{{% /staticref %}}
+{{% staticref "uploads/quantum-fourier-transform.pdf" "newtab" %}}Download exercises on QFT.{{% /staticref %}}
 ---
 
 
