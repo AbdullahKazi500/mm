@@ -11,7 +11,7 @@ main:
     url: event
     weight: 20
   - name: Exercises
-    url: /
+    url: exercises
     weight: 30
   - name: Blog
     url: post
