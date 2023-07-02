@@ -6,11 +6,7 @@ type: landing
 sections:
   - block: markdown
     content:
-      title:
-      subtitle: ''
-      text: Let's practice your knowledge...
+      {{% staticref "uploads/quantum-fourier-transform.pdf" "newtab" %}}Download exercises on QFT.{{% /staticref %}}
     design:
       columns: '1'
-
-{{% staticref "uploads/quantum-fourier-transform.pdf" "newtab" %}}Download exercises on QFT.{{% /staticref %}}
 ---
